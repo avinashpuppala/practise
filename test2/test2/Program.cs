@@ -11,6 +11,7 @@ namespace test2
         static void Main(string[] args)
         {
             Console.WriteLine("testing");
+            Console.ReadLine();
         }
     }
 }
